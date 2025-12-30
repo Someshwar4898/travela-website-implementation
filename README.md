@@ -1,2 +1,19 @@
-# travela-website-implementation
-A responsive travel website implemented using Bootstrap 5. Design template by HTML Codex/ThemeWagon.
+Travela – Travel Agency Website
+
+A responsive front-end travel website customized and implemented using Bootstrap 5.
+
+Live Demo: https://someshwar4898.github.io/travela-website-implementation/
+
+My Work
+- Implemented and customized responsive layout using Bootstrap 5
+- Structured booking forms and content sections
+- Integrated carousel and UI components
+- Ensured mobile and cross-device compatibility
+
+Tech Stack
+- HTML5
+- CSS3
+- Bootstrap 5
+
+Credits
+Base design template by HTML Codex / ThemeWagon, customized and implemented for learning and practice purposes.
