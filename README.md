@@ -4,6 +4,10 @@ A responsive front-end travel website customized and implemented using Bootstrap
 
 Live Demo: https://someshwar4898.github.io/travela-website-implementation/
 
+## About This Project
+The layout and design were inspired by publicly available travel website templates. 
+The entire codebase was written independently to practice Bootstrap layout, components, and responsive design.
+
 ## My Work
 - Implemented and customized responsive layout using Bootstrap 5
 - Structured booking forms and content sections
